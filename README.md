@@ -1,17 +1,41 @@
 # medical-datasets
 
-medical instruction finetuning 
+# Table of Contents
 
-medical chat datasets
+# Medical Knowledge Datasets
 
-medical question answering
+## Medical Instruction Finetuning
+* Medical Meadow
+* BI55/MedText
 
-report summarization
+## Medical Chat Datasets
+* Chat Doctor
 
-report generation
+## Medical Question Answering
+* MedQA
+* MedMCQA
+* PubMedQA
 
-visual question answering
+# Medical Text Datasets
 
-image classification
+## Report Summarization
+* MIMIC-III / MIMIC-IV
 
+## Report Generation
+* MIMIC-CXR
+
+# Medical Visual Datasets
+
+## Visual Question Answering
+* VQA-RAD
+* Slake-VQA
+* Path-VQA
+
+## Image Classification
+* MIMIC-CXR
+* PAD-UFES-20
+* VinDr-Mammo
+* CBIS-DDSM
+* Variant Calling
+* 
 medical imaging datasets: https://github.com/sfikas/medical-imaging-datasets
